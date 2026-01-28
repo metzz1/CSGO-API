@@ -1,0 +1,1094 @@
+[
+  {
+    "id": "skin-a92d1a70ebc1",
+    "name": "AK-47 | Breakthrough",
+    "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. A grayscale pattern featuring aggressive \\\"zed\\\" designs has been applied over a carbon fiber base.\\n\\n<i>+5 Weapon Handling Speed</i>",
+    "weapon": "AK-47",
+    "category": "Rifles",
+    "pattern": "Breakthrough",
+    "rarity": "Restricted",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_hye_zeds_light_png.png",
+    "original": {
+      "name": "weapon_ak47"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.75,
+    "minFloat": 0,
+    "paintIndex": "1358"
+  },
+  {
+    "id": "skin-784a6c99447c",
+    "name": "AUG | Creep",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been painted with gnarled branches and birds over a silver base.\\n\\n<i>\\\"They're circling...\\\"</i>",
+    "weapon": "AUG",
+    "category": "Rifles",
+    "pattern": "Creep",
+    "rarity": "Mil-Spec Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_soe_aug_creep_light_png.png",
+    "original": {
+      "name": "weapon_aug"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.8,
+    "minFloat": 0,
+    "paintIndex": "1362"
+  },
+  {
+    "id": "skin-d384f428d432",
+    "name": "AWP | Exothermic",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A red-colored burst pattern has been applied.\\n\\n<i>\\\"Cool guys don't look at explosions\\\"</i>",
+    "weapon": "AWP",
+    "category": "Rifles",
+    "pattern": "Exothermic",
+    "rarity": "Restricted",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_hye_firework_patches_light_png.png",
+    "original": {
+      "name": "weapon_awp"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.7,
+    "minFloat": 0,
+    "paintIndex": "1378"
+  },
+  {
+    "id": "skin-76f19247a21d",
+    "name": "AWP | The End",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using eggplant and white colors with flames, roses, and \\\"the end\\\" in front of the trigger.\\n\\n<i>A tale of two sides</i>",
+    "weapon": "AWP",
+    "category": "Rifles",
+    "pattern": "The End",
+    "rarity": "Classified",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_soe_bw_the_end_awp_light_png.png",
+    "original": {
+      "name": "weapon_awp"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 1,
+    "minFloat": 0,
+    "paintIndex": "1356"
+  },
+  {
+    "id": "skin-66a37bb94450",
+    "name": "PP-Bizon | Bizoom",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. A grayscale pattern has been applied.\\n\\n<i>Quickly, please!</i>",
+    "weapon": "PP-Bizon",
+    "category": "SMGs",
+    "pattern": "Bizoom",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_hye_car_wrap_bizon_light_png.png",
+    "original": {
+      "name": "weapon_bizon"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.58,
+    "minFloat": 0,
+    "paintIndex": "1374"
+  },
+  {
+    "id": "skin-8ac8f9231892",
+    "name": "PP-Bizon | Thermal Currents",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. Silver birds have been applied over a wine-colored pattern.\\n\\n<i>How's the view up there?</i>",
+    "weapon": "PP-Bizon",
+    "category": "SMGs",
+    "pattern": "Thermal Currents",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_hye_geobirds_sunrise_light_png.png",
+    "original": {
+      "name": "weapon_bizon"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.6,
+    "minFloat": 0,
+    "paintIndex": "1392"
+  },
+  {
+    "id": "skin-56333a38bf41",
+    "name": "CZ75-Auto | Honey Paisley",
+    "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been painted with a gold-colored paisley pattern over a wine-colored base.\\n\\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>",
+    "weapon": "CZ75-Auto",
+    "category": "Pistols",
+    "pattern": "Honey Paisley",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_hye_paisley_desat_light_png.png",
+    "original": {
+      "name": "weapon_cz75a"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.6,
+    "minFloat": 0,
+    "paintIndex": "1390"
+  },
+  {
+    "id": "skin-442d3266f2ac",
+    "name": "Desert Eagle | The Daily Deagle",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. A grayscale pattern has been applied.\\n\\n<i>From the pages of your favorite graphic novel</i>",
+    "weapon": "Desert Eagle",
+    "category": "Pistols",
+    "pattern": "The Daily Deagle",
+    "rarity": "Mil-Spec Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_hye_car_wrap_light_png.png",
+    "original": {
+      "name": "weapon_deagle"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.58,
+    "minFloat": 0,
+    "paintIndex": "1360"
+  },
+  {
+    "id": "skin-6e77ad6f522c",
+    "name": "Dual Berettas | Silver Pour",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. A grayscale acrylic pour pattern has been applied.\\n\\n<i>In the end it all seems to come together</i>",
+    "weapon": "Dual Berettas",
+    "category": "Pistols",
+    "pattern": "Silver Pour",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_soe_acrylic_flow3_light_png.png",
+    "original": {
+      "name": "weapon_elite"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.678431,
+    "minFloat": 0,
+    "paintIndex": "1373"
+  },
+  {
+    "id": "skin-f9f850e1e389",
+    "name": "FAMAS | Byproduct",
+    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. A gold-colored burst pattern has been applied.\\n\\n<i>\\\"Cool guys don't look at explosions\\\"</i>",
+    "weapon": "FAMAS",
+    "category": "Rifles",
+    "pattern": "Byproduct",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_hye_firework_patches_famas_light_png.png",
+    "original": {
+      "name": "weapon_famas"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.55,
+    "minFloat": 0,
+    "paintIndex": "1393"
+  },
+  {
+    "id": "skin-7f85393d2fb1",
+    "name": "FAMAS | Vendetta",
+    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been painted with a woodgrain pattern using high gloss paint.\\n\\n<i>Here—an axe for you to grind... - Booth, Arms Dealer</i>",
+    "weapon": "FAMAS",
+    "category": "Rifles",
+    "pattern": "Vendetta",
+    "rarity": "Industrial Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_soe_bw_blast_light_png.png",
+    "original": {
+      "name": "weapon_famas"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.6,
+    "minFloat": 0,
+    "paintIndex": "1365"
+  },
+  {
+    "id": "skin-6f23920b8406",
+    "name": "Five-SeveN | Fraise Crane",
+    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A pink and white pattern of cranes and flowers has been applied.\\n\\n<i>Best paired with a glass of sherry</i>",
+    "weapon": "Five-SeveN",
+    "category": "Pistols",
+    "pattern": "Fraise Crane",
+    "rarity": "Mil-Spec Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_soe_pink_cranes_light_png.png",
+    "original": {
+      "name": "weapon_fiveseven"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.65,
+    "minFloat": 0,
+    "paintIndex": "1380"
+  },
+  {
+    "id": "skin-49296f9e5232",
+    "name": "Galil AR | Sky Mandala",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. A multicolored mandala pattern has been applied.\\n\\n<i>It's about the journey</i>",
+    "weapon": "Galil AR",
+    "category": "Rifles",
+    "pattern": "Sky Mandala",
+    "rarity": "Mil-Spec Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_galilar_hye_earth_mandala_light_png.png",
+    "original": {
+      "name": "weapon_galilar"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.7,
+    "minFloat": 0,
+    "paintIndex": "1383"
+  },
+  {
+    "id": "skin-9eb900056828",
+    "name": "Glock-18 | Trace Lock",
+    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A grayscale pattern of circles has been applied underneath a holographic design.\\n\\n<i>Graphical maps of holographic systems</i>",
+    "weapon": "Glock-18",
+    "category": "Pistols",
+    "pattern": "Trace Lock",
+    "rarity": "Restricted",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_ht_white_edges_light_png.png",
+    "original": {
+      "name": "weapon_glock"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.7,
+    "minFloat": 0,
+    "paintIndex": "1357"
+  },
+  {
+    "id": "skin-a5639c9731c1",
+    "name": "P2000 | Grip Tape",
+    "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. A pattern using different sheens of silver paint has been applied. Parts of the grip have been painted using a dark, matte paint to resemble grip tape.\\n\\n<i>Hold tight!</i>",
+    "weapon": "P2000",
+    "category": "Pistols",
+    "pattern": "Grip Tape",
+    "rarity": "Mil-Spec Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_soe_p2000_grips_light_png.png",
+    "original": {
+      "name": "weapon_hkp2000"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.75,
+    "minFloat": 0,
+    "paintIndex": "1359"
+  },
+  {
+    "id": "skin-81cd69f7a061",
+    "name": "M249 | Sleet",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. An angular grayscale pattern has been applied.\\n\\n<i>Rich interiors suited for rough exteriors</i>",
+    "weapon": "M249",
+    "category": "Heavy",
+    "pattern": "Sleet",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m249_hye_m249_car_wrap_3_light_png.png",
+    "original": {
+      "name": "weapon_m249"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.7,
+    "minFloat": 0,
+    "paintIndex": "1370"
+  },
+  {
+    "id": "skin-9449a702cb3c",
+    "name": "M4A4 | Aeolian Dark",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A grayscale, abstract knot pattern has been applied.\\n\\n<i>Let the wind carry you</i>",
+    "weapon": "M4A4",
+    "category": "Rifles",
+    "pattern": "Aeolian Dark",
+    "rarity": "Industrial Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_hye_abstract_knot_m4_light_png.png",
+    "original": {
+      "name": "weapon_m4a1"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.65,
+    "minFloat": 0,
+    "paintIndex": "1364"
+  },
+  {
+    "id": "skin-bc5a36f177b0",
+    "name": "M4A1-S | Party Animal",
+    "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. A bright, neon-colored animal print pattern has been applied.\\n\\n<i>You said \\\"a few colors\\\", not \\\"the entire color spectrum\\\"</i>",
+    "weapon": "M4A1-S",
+    "category": "Rifles",
+    "pattern": "Party Animal",
+    "rarity": "Classified",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_animal_print_90s_light_png.png",
+    "original": {
+      "name": "weapon_m4a1_silencer"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.6,
+    "minFloat": 0,
+    "paintIndex": "1376"
+  },
+  {
+    "id": "skin-d269db65b6ea",
+    "name": "MAC-10 | Snow Splash",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A grayscale pattern featuring sharp, angular designs has been applied.\\n\\n<i>Unflinching</i>",
+    "weapon": "MAC-10",
+    "category": "SMGs",
+    "pattern": "Snow Splash",
+    "rarity": "Industrial Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_hye_car_wrap4_light_png.png",
+    "original": {
+      "name": "weapon_mac10"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.6,
+    "minFloat": 0,
+    "paintIndex": "1367"
+  },
+  {
+    "id": "skin-2787809612be",
+    "name": "MP5-SD | Snow Splash",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. A grayscale pattern featuring sharp, angular designs has been applied.\\n\\n<i>Unflinching</i>",
+    "weapon": "MP5-SD",
+    "category": "SMGs",
+    "pattern": "Snow Splash",
+    "rarity": "Industrial Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp5sd_hye_mp5_car_wrap4_light_png.png",
+    "original": {
+      "name": "weapon_mp5sd"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.6,
+    "minFloat": 0,
+    "paintIndex": "1366"
+  },
+  {
+    "id": "skin-105633b3f165",
+    "name": "MP5-SD | Picnic",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. A red pattern of offset X's has been applied.\\n\\n<i>It's a bit much, but isn't that the point? - Imogen, Arms Dealer In Training</i>",
+    "weapon": "MP5-SD",
+    "category": "SMGs",
+    "pattern": "Picnic",
+    "rarity": "Industrial Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp5sd_soe_red_light_png.png",
+    "original": {
+      "name": "weapon_mp5sd"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.75,
+    "minFloat": 0,
+    "paintIndex": "1385"
+  },
+  {
+    "id": "skin-33edc6632c92",
+    "name": "MP7 | Coral Paisley",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A red and orange paisley pattern has been applied.\\n\\n<i>Only the finest textiles for you, Booth - Yukako, Gunsmith</i>",
+    "weapon": "MP7",
+    "category": "SMGs",
+    "pattern": "Coral Paisley",
+    "rarity": "Industrial Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_hye_paisley_warm_light_png.png",
+    "original": {
+      "name": "weapon_mp7"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.65,
+    "minFloat": 0,
+    "paintIndex": "1386"
+  },
+  {
+    "id": "skin-fd612b65c748",
+    "name": "MP9 | Dizzy",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A grayscale DDPAT has been applied.\\n\\n<i>Round and round we go</i>",
+    "weapon": "MP9",
+    "category": "SMGs",
+    "pattern": "Dizzy",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_soe_ddpat_swirl_bw_light_png.png",
+    "original": {
+      "name": "weapon_mp9"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.65,
+    "minFloat": 0,
+    "paintIndex": "1375"
+  },
+  {
+    "id": "skin-07db077aad75",
+    "name": "MP9 | Bee-Tron",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. Primarily silver, the grooves of this MP9 have been filled with yellow and red paint.\\n\\n<i>Hold me back!</i>",
+    "weapon": "MP9",
+    "category": "SMGs",
+    "pattern": "Bee-Tron",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_soe_yellow_bits_light_png.png",
+    "original": {
+      "name": "weapon_mp9"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.9,
+    "minFloat": 0,
+    "paintIndex": "1388"
+  },
+  {
+    "id": "skin-18a19585ed8f",
+    "name": "Nova | Currents",
+    "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. A grayscale pattern highlighted by silver birds has been applied.\\n\\n<i>How's the view up there?</i>",
+    "weapon": "Nova",
+    "category": "Heavy",
+    "pattern": "Currents",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_hye_geobirds_light_png.png",
+    "original": {
+      "name": "weapon_nova"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.65,
+    "minFloat": 0,
+    "paintIndex": "1368"
+  },
+  {
+    "id": "skin-1f71b62e4990",
+    "name": "P250 | Sleet",
+    "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. An angular grayscale pattern has been applied.\\n\\n<i>Rich interiors suited for rough exteriors</i>",
+    "weapon": "P250",
+    "category": "Pistols",
+    "pattern": "Sleet",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_hye_car_wrap_3_light_png.png",
+    "original": {
+      "name": "weapon_p250"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.7,
+    "minFloat": 0,
+    "paintIndex": "1369"
+  },
+  {
+    "id": "skin-59aaabe308c8",
+    "name": "P90 | Aeolian Light",
+    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A grayscale, abstract knot pattern has been applied.\\n\\n<i>Let the wind carry you</i>",
+    "weapon": "P90",
+    "category": "SMGs",
+    "pattern": "Aeolian Light",
+    "rarity": "Mil-Spec Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p90_hye_abstract_knot_light_png.png",
+    "original": {
+      "name": "weapon_p90"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.65,
+    "minFloat": 0,
+    "paintIndex": "1361"
+  },
+  {
+    "id": "skin-2f4f4e0aaa4e",
+    "name": "R8 Revolver | Mauve Aside",
+    "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. The grip has been painted with a plum-colored acrylic pour pattern.\\n\\n<i>A gentle pour</i>",
+    "weapon": "R8 Revolver",
+    "category": "Pistols",
+    "pattern": "Mauve Aside",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_soch_copper_accent_revolver_light_png.png",
+    "original": {
+      "name": "weapon_revolver"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.80339,
+    "minFloat": 0,
+    "paintIndex": "1389"
+  },
+  {
+    "id": "skin-f41134aec544",
+    "name": "R8 Revolver | Dark Chamber",
+    "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. The grip has been painted with a dark acrylic pour pattern.\\n\\n<i>Old money</i>",
+    "weapon": "R8 Revolver",
+    "category": "Pistols",
+    "pattern": "Dark Chamber",
+    "rarity": "Industrial Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_soch_smoke_grips_light_png.png",
+    "original": {
+      "name": "weapon_revolver"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.80339,
+    "minFloat": 0,
+    "paintIndex": "1363"
+  },
+  {
+    "id": "skin-0b2ec5b2c5ef",
+    "name": "Sawed-Off | Crimson Batik",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. A crimson and black banana leaf pattern has been applied.\\n\\n<i>Moving targets</i>",
+    "weapon": "Sawed-Off",
+    "category": "Heavy",
+    "pattern": "Crimson Batik",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_hye_batik_eyes_light_png.png",
+    "original": {
+      "name": "weapon_sawedoff"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.6,
+    "minFloat": 0,
+    "paintIndex": "1391"
+  },
+  {
+    "id": "skin-493c652caf29",
+    "name": "SCAR-20 | Zinc",
+    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. A grayscale pattern has been applied.\\n\\n<i>A ripple in time</i>",
+    "weapon": "SCAR-20",
+    "category": "Rifles",
+    "pattern": "Zinc",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_hye_chrome_ripple_light_png.png",
+    "original": {
+      "name": "weapon_scar20"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.6,
+    "minFloat": 0,
+    "paintIndex": "1371"
+  },
+  {
+    "id": "skin-9a7b0a3e260f",
+    "name": "SG 553 | Safari Print",
+    "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. A brown animal print pattern has been applied.\\n\\n<i>You said \\\"a few animals\\\", not \\\"the entire animal kingdom\\\"</i>",
+    "weapon": "SG 553",
+    "category": "Rifles",
+    "pattern": "Safari Print",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sg556_hye_animal_print_lc_light_png.png",
+    "original": {
+      "name": "weapon_sg556"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.7,
+    "minFloat": 0,
+    "paintIndex": "1394"
+  },
+  {
+    "id": "skin-2efacc35df16",
+    "name": "SSG 08 | Calligrafaux",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. A red calligraphy design has been applied.\\n\\n<i>Put it in writing</i>",
+    "weapon": "SSG 08",
+    "category": "Rifles",
+    "pattern": "Calligrafaux",
+    "rarity": "Industrial Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ssg08_ht_red_edges_fineline_light_png.png",
+    "original": {
+      "name": "weapon_ssg08"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 1,
+    "minFloat": 0,
+    "paintIndex": "1379"
+  },
+  {
+    "id": "skin-158373106a93",
+    "name": "SSG 08 | Sans Comic",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. A grayscale pattern featuring high gloss silver paint has been applied.\\n\\n<i>\\\"The red light means it's recording\\\"</i>",
+    "weapon": "SSG 08",
+    "category": "Rifles",
+    "pattern": "Sans Comic",
+    "rarity": "Consumer Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ssg08_hye_comic_shapes_light_png.png",
+    "original": {
+      "name": "weapon_ssg08"
+    },
+    "_crates": [],
+    "collection": "The Achroma Collection",
+    "maxFloat": 0.5,
+    "minFloat": 0,
+    "paintIndex": "1372"
+  },
+  {
+    "id": "skin-0843472a9098",
+    "name": "Zeus x27 | Earth Mandala",
+    "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. A multicolored mandala pattern has been applied.\\n\\n<i>It's about the journey</i>",
+    "weapon": "Zeus x27",
+    "category": "Equipment",
+    "pattern": "Earth Mandala",
+    "rarity": "Mil-Spec Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_taser_hye_earth_mandala_lc_light_png.png",
+    "original": {
+      "name": "weapon_taser"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.66,
+    "minFloat": 0,
+    "paintIndex": "1382"
+  },
+  {
+    "id": "skin-25af68e7c19c",
+    "name": "Tec-9 | Banana Leaf",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. A yellow and black banana leaf pattern has been applied.\\n\\n<i>Rich in potassium</i>",
+    "weapon": "Tec-9",
+    "category": "Pistols",
+    "pattern": "Banana Leaf",
+    "rarity": "Industrial Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_hye_batik_eyes_tec9_light_png.png",
+    "original": {
+      "name": "weapon_tec9"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.6,
+    "minFloat": 0,
+    "paintIndex": "1384"
+  },
+  {
+    "id": "skin-37ac474a54e4",
+    "name": "UMP-45 | Warm Blooded",
+    "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. A tan and red animal print pattern has been applied.\\n\\n<i>You said \\\"a few animals\\\", not \\\"the entire animal kingdom\\\"</i>",
+    "weapon": "UMP-45",
+    "category": "SMGs",
+    "pattern": "Warm Blooded",
+    "rarity": "Mil-Spec Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ump45_hye_test_animal_print_45_light_png.png",
+    "original": {
+      "name": "weapon_ump45"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.7,
+    "minFloat": 0,
+    "paintIndex": "1387"
+  },
+  {
+    "id": "skin-a060f0657eb4",
+    "name": "USP-S | Sleeping Potion",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. A purple camo pattern with a pearlescent finish has been applied.\\n\\n<i>A new brew!</i>",
+    "weapon": "USP-S",
+    "category": "Pistols",
+    "pattern": "Sleeping Potion",
+    "rarity": "Restricted",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_soe_purple_light_png.png",
+    "original": {
+      "name": "weapon_usp_silencer"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.7,
+    "minFloat": 0,
+    "paintIndex": "1377"
+  },
+  {
+    "id": "skin-674317d93e09",
+    "name": "XM1014 | XoooM",
+    "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. A yellow pattern has been applied and finished with silver accents.\\n\\n<i>ZZZZZAP!</i>",
+    "weapon": "XM1014",
+    "category": "Heavy",
+    "pattern": "XoooM",
+    "rarity": "Industrial Grade",
+    "stattrak": false,
+    "souvenir": false,
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "legacy_model": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_soe_yellow_xm_light_png.png",
+    "original": {
+      "name": "weapon_xm1014"
+    },
+    "_crates": [],
+    "collection": "The Harlequin Collection",
+    "maxFloat": 0.6,
+    "minFloat": 0,
+    "paintIndex": "1381"
+  }
+]

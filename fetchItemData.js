@@ -1,12 +1,16 @@
-const axios = require('axios')
-const fs = require('fs')
-const fsPromises = require('fs/promises')
-const readline = require('readline')
-const path = require('path')
+import axios from 'axios'
+import { writeFile } from 'fs'
+import { readFile } from 'fs/promises'
+import { createInterface } from 'readline'
+import { join, dirname } from 'path'
+import { fileURLToPath } from 'url'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
 
 const writeToFile = (data, filePath = 'output.json') => {
   const dataJson = JSON.stringify(data, null, 2)
-  fs.writeFile(filePath, dataJson, err => {
+  writeFile(filePath, dataJson, err => {
     if (err) {
       console.error('Error writing file:', err)
       return
@@ -29,7 +33,7 @@ let item_name_crates = []
 let item_name_graffiti = []
 
 // base path to your local API data
-const API_DIR = path.join(__dirname, 'public', 'api')
+const API_DIR = join(__dirname, 'public', 'api')
 
 // ---------- Helpers ----------
 
@@ -38,7 +42,7 @@ const loadJson = async ({ useLocalFile = true, localFilePath, remoteUrl }) => {
     if (!localFilePath) {
       throw new Error('localFilePath is required when useLocalFile = true')
     }
-    const raw = await fsPromises.readFile(localFilePath, 'utf8')
+    const raw = await readFile(localFilePath, 'utf8')
     return JSON.parse(raw)
   }
 
@@ -80,7 +84,7 @@ const getItemsData = async (options = {}) => {
   } = options
 
   const finalLocalPath =
-    localFilePath || path.join(API_DIR, 'en', 'skins.json')
+    localFilePath || join(API_DIR, 'en', 'skins.json')
 
   const data = await loadJson({
     useLocalFile,
@@ -149,7 +153,7 @@ const getPortugueseNames = async (options = {}) => {
   const { useLocalFile = true, localFilePath } = options
 
   const finalLocalPath =
-    localFilePath || path.join(API_DIR, 'pt-BR', 'skins.json')
+    localFilePath || join(API_DIR, 'pt-BR', 'skins.json')
 
   const data = await loadJson({
     useLocalFile,
@@ -186,7 +190,7 @@ const getStickersData = async (options = {}) => {
   } = options
 
   const finalLocalPath =
-    localFilePath || path.join(API_DIR, 'en', 'stickers.json')
+    localFilePath || join(API_DIR, 'en', 'stickers.json')
 
   const data = await loadJson({
     useLocalFile,
@@ -229,7 +233,7 @@ const getPortugueseNamesStickers = async (options = {}) => {
   const { useLocalFile = true, localFilePath } = options
 
   const finalLocalPath =
-    localFilePath || path.join(API_DIR, 'pt-BR', 'stickers.json')
+    localFilePath || join(API_DIR, 'pt-BR', 'stickers.json')
 
   const data = await loadJson({
     useLocalFile,
@@ -266,7 +270,7 @@ const getGraffitiData = async (options = {}) => {
   } = options
 
   const finalLocalPath =
-    localFilePath || path.join(API_DIR, 'en', 'graffiti.json')
+    localFilePath || join(API_DIR, 'en', 'graffiti.json')
 
   const data = await loadJson({
     useLocalFile,
@@ -310,7 +314,7 @@ const getPortugueseNamesGraffiti = async (options = {}) => {
   const { useLocalFile = true, localFilePath } = options
 
   const finalLocalPath =
-    localFilePath || path.join(API_DIR, 'pt-BR', 'graffiti.json')
+    localFilePath || join(API_DIR, 'pt-BR', 'graffiti.json')
 
   const data = await loadJson({
     useLocalFile,
@@ -347,7 +351,7 @@ const getCratesData = async (options = {}) => {
   } = options
 
   const finalLocalPath =
-    localFilePath || path.join(API_DIR, 'en', 'crates.json')
+    localFilePath || join(API_DIR, 'en', 'crates.json')
 
   const data = await loadJson({
     useLocalFile,
@@ -393,7 +397,7 @@ const getPortugueseNamesCrates = async (options = {}) => {
   const { useLocalFile = true, localFilePath } = options
 
   const finalLocalPath =
-    localFilePath || path.join(API_DIR, 'pt-BR', 'crates.json')
+    localFilePath || join(API_DIR, 'pt-BR', 'crates.json')
 
   const data = await loadJson({
     useLocalFile,
@@ -430,7 +434,7 @@ const getKeychainsData = async (options = {}) => {
   } = options
 
   const finalLocalPath =
-    localFilePath || path.join(API_DIR, 'en', 'keychains.json')
+    localFilePath || join(API_DIR, 'en', 'keychains.json')
 
   const data = await loadJson({
     useLocalFile,
@@ -476,7 +480,7 @@ const getPortugueseNamesKeychains = async (options = {}) => {
   const { useLocalFile = true, localFilePath } = options
 
   const finalLocalPath =
-    localFilePath || path.join(API_DIR, 'pt-BR', 'keychains.json')
+    localFilePath || join(API_DIR, 'pt-BR', 'keychains.json')
 
   const data = await loadJson({
     useLocalFile,
@@ -503,7 +507,7 @@ const getPortugueseNamesKeychains = async (options = {}) => {
 
 // ---------- CLI (stdin) ----------
 
-const rl = readline.createInterface({
+const rl = createInterface({
   input: process.stdin,
   output: process.stdout,
 })
